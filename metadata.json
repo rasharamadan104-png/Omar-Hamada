@@ -1,0 +1,6 @@
+{
+  "name": "eFootball PES 2021",
+  "description": "لعبة كرة قدم حية وديناميكية تحاكي eFootball PES 2021 Mobile بمباريات واقعية وتحكم كلاسيكي واحترافي، إدارة التشكيلة، وكلاء وبكجات أساطير، وجرافيك ملعبي مبهر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
